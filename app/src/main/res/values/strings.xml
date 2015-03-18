@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OpenNotificationPanel</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="open_notify">展开通知栏</string>
+    <string name="close_notify">关闭通知栏</string>
+</resources>
